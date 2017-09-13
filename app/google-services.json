@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450193287194",
+    "firebase_url": "https://emelda1-a4deb.firebaseio.com",
+    "project_id": "emelda1-a4deb",
+    "storage_bucket": "emelda1-a4deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450193287194:android:a5908d764c0716d0",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.emelda11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450193287194-mfb7t7dvqekjolsb0sra1jjffn4iueqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.emelda11",
+            "certificate_hash": "3c425cef02aec99514ec3af864e7e5db83cfe579"
+          }
+        },
+        {
+          "client_id": "450193287194-7r6i2426g58h2d7rqmusbgp29jlqqhen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2aMgi2iEz5eviwtGmKWdra3yxnIaQmIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450193287194-7r6i2426g58h2d7rqmusbgp29jlqqhen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
